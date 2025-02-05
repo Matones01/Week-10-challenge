@@ -3,7 +3,6 @@ import { useParams } from "react-router-dom";
 import { productdata } from "../data";
 import { NumberField } from "@base-ui-components/react";
 import { useBasket } from "../components/basketcontext";
-import picture from "../images/Basicphone.jpeg"
 
 const { Root, Input, Increment, Decrement } = NumberField;
 

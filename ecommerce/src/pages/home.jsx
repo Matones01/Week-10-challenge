@@ -2,7 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import phone from "../images/Basicphone.jpeg"
+import phone from "../images/BasicPhone.jpeg"
 import old from "../images/OldPhone.jpeg"
 import phone2 from "../images/Phone2.jpeg"
 import brickold from "../images/BrickPhone.jpeg"
