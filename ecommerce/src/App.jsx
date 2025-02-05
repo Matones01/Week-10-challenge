@@ -12,7 +12,7 @@ import Products from "./pages/products";
 import Basket from "./pages/basket";
 import Store from "./pages/store";
 import { BasketProvider } from './components/basketcontext';
-import logo from './images/logo.png'
+import logo from './images/Logo.png'
 import Bottom from './components/bottom';
 
 function App() {
